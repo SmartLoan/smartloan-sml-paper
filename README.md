@@ -1,5 +1,6 @@
 # SmartLoan: A Decentralised Smart Contract Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
+<p style='text-align: justify;'>
 The advancement of technology has caused increasing demand for skilled workers and credential inflation among professionals. This phenomena pushes every average people to pursue higher education in order to survive the paradigm shift of the world. Therefore, more and more people are getting into graduate schools, either in their early career or middle of their career. 
 
 Student debt is not just a trillion dollar crisis in the United States. It is a worldwide problem. A group that oversees the government’s student loan system in Japan reported that it has been lending over $9 billion to students yearly since 2010. Similar situation happens in Africa and South America.
@@ -16,3 +17,20 @@ Given the above scenario, Asvoria is looking for a loan to support her livelihoo
 ## What if…
 What if there is an institution which would offer Asvoria a student loan? According to traditional loan calculator, Asvoria’s student loan repayment scheme will be:
 
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/table1.png)
+
+## The Crisis
+After Asvoria graduates, if she unable to find a job in UK, and must go back to Malaysia. She might get herself a job lecturing in Universities. The crisis begins when her salary was paid in MYR and the average salary of a PHD holder lecturer in Malaysia is about RM10k per month. Which is only about £1.787k per month. In such circumstances, she might not able to pay the monthly instalment of her education loan, which is about £0.97k. 
+However, if she found a job in UK as an engineering PHD graduate, the average salary according to payscale, is about £43.6k (which is about £3.6k per month). Asvoria might still able to repay the loan by living a frugal life for 10 years.
+From the above example, we see that the system is flawed, in a sense that the financial product is not “future proof”. As future is something unpredictable, and it is a form of investment risk to the money lender and a financial risk for the borrower. Although in the United States, PSLF (Public Service Loan Forgiveness) program seeks to help those who work for public services and non-profit organizations. However, such system does not help people who choose to serve independently. For example, a graduated physician who want to open their own family clinic in a rural under-serve area, they may not qualify for PSLF.
+
+## The Proposed Solution
+SmartLoan is a dApp that helps average person to generate smart student loan contracts. The uniqueness of SmartLoan is that the interest is calculated based on the debtor’s income instead of the fixed percentage of the amount borrowed. With dynamic interest rates, ranging from 18% to -5% based on the career path taken by the borrower.
+
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/flow1.png)
+
+Still under construction... 
+TBC...
+Updated on: 14/02/2021
+Yes, I'm too free on the day I updated this coz I'm single!
+</p>
