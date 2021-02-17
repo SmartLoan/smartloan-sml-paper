@@ -37,6 +37,11 @@ If the student failed to graduate and decided to drop out of the program, 1.5% i
 
 Penalty interest (P1) and reward interest (R1, R2) are variables that can be changed based on the student’s ability when the contract being formulated. P1 should be larger than R1, and R1 should be larger than R2 (P1>R1>R2) to encourage student to work hard for graduation, at the same time, compensate and reward the lenders when the total accumulated debt is less than contract total.  
 
+## The Repayment Scheme  
+Contents will include:  
+How lenders can get huge profit from successful debtors!
+
+
 Still under construction...  
 TBC...  
 Updated on: 17/02/2021  
