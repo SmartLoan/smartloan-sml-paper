@@ -45,5 +45,5 @@ How lenders can get huge profit from successful debtors!
 Still under construction...  
 TBC...  
 Updated on: 17/02/2021  
-Yes, I'm too free on the day I updated this coz I'm single!  
+
 </p>
