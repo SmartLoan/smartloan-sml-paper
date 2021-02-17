@@ -29,8 +29,13 @@ SmartLoan is a dApp that helps average person to generate smart student loan con
 
 ![](https://github.com/Asvoria/pineapple_token/blob/master/images/flow1.png)
 
+The contract begins with total fund of £80k, only £20k will be released each year depends on the student’s performance. For a PHD by research, average year of study is 3 years. The contract is programmed to limit failure to achieve yearly milestone for maximum 2 times. This is to prevent circumstances when a student accumulates more debts but still unable to graduate with the PHD. If the student performs well and able to graduate less than 3 years, less debt will be accumulated.
+If the student graduate early, additional interests is charged since early graduation is a sign showing the student has higher potential and the additional interests is to reward the lender. For example: if the student able to graduate after first year of study, 1% of the interest is charged based on total amount of A1=£20k loan, which is £200 as a reward for the lenders, since the other T1=£60k is not released to the student, they will be returned to the lenders, and the student shall start repay the total amount of £20.2k by instalment. 
+If the student failed to graduate and decided to drop out of the program, 1.5% interest will be charged as penalty. For example: if the student decided to drop out of the program after year 2, 1.5% of A1=£40k will be charged, which is £600, as penalty for unable to complete the program. The student shall start repay the total amount of £40.6k by instalment.
+Penalty interest (P1) and reward interest (R1, R2) are variables that can be changed based on the student’s ability when the contract being formulated. P1 should be larger than R1, and R1 should be larger than R2 (P1>R1>R2) to encourage student to work hard for graduation, at the same time, compensate and reward the lenders when the total accumulated debt is less than contract total.
+
 Still under construction...  
 TBC...  
-Updated on: 14/02/2021  
+Updated on: 17/02/2021  
 Yes, I'm too free on the day I updated this coz I'm single!  
 </p>
