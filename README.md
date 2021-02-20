@@ -74,11 +74,13 @@ TBC...
 Updated on: 20/02/2021  
 
 Support this project:  
+https://gitcoin.co/grants/2020/smartloan  
 asvoria@live.com  
 BTC: 1LUibkFb4XrAkEJVX7dmzcm1B5czXFgERX  
 <img src="https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg" alt="drawing" width="180"/>
 
 ETH: 0xabf3f970cce273397ed71f004bb0c8577ee60c93  
 <img src="https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg" alt="drawing" width="180"/>
+
 
 </p>
