@@ -1,4 +1,4 @@
-# SmartLoan: A Decentralised Smart Contract Solution to Student Debt Crisis!
+# SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
 <p style='text-align: justify;'>
 The advancement of technology has caused increasing demand for skilled workers and credential inflation among professionals. This phenomena pushes every average people to pursue higher education in order to survive the paradigm shift of the world. Therefore, more and more people are getting into graduate schools, either in their early career or middle of their career. 
