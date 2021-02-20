@@ -44,6 +44,20 @@ Penalty percentage (P1) and reward percentage (R1, R2) are variables that can be
 
 
 ## The Repayment Scheme  
+When the student dropped out or graduated, the next phase would be the repayment of the loan. At this stage, there could be various circumstance. SmartLoan introduce a loan interest calculated based on salary income, capital gain, bonuses and awards which the borrower received throughout the repayment period. The interest rate varied between a set of range pre-programmed in the smart contract. For the above example, the contract is programmed with instalment period of 10 years with 5 variable annual interest rates.
+Five Categories of Consequences  
+As future of a person can be unpredictable, the SmartLoan attempt to provide solution that benefits both borrower and lenders through dividing the possible outcome of the borrower’s future prospect. The percentage of each categories can be pre-determined during the design of the contract. Given the above example, 5 annual interest rates were determined: -12%(T1), -6%(T2), 0%(T3), 6%(T4) to 12%(T5):  
+
+| Categories   |  Interest Rate |   Consequences Description      |
+|----------|:-------------:|-------:|
+| T1 | -12% | When borrower works for charitable organization that serves general humanities. |
+| T2 |  -6% | When borrower works for non-profit organization, or facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. |
+| T3 | 0% |
+| T4 | 6% |
+| T5 | 12% |
+
+
+
 Contents will include:  
 How lenders can get huge profit from successful debtors!
 
