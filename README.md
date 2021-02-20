@@ -52,9 +52,10 @@ As future of a person can be unpredictable, the SmartLoan attempt to provide sol
 |----------|:-------------:|:-------|
 | T1 | -12% | When borrower works for charitable organization that serves general humanities. |
 | T2 |  -6% | When borrower works for non-profit organization, or facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. |
-| T3 | 0% |
-| T4 | 6% |
-| T5 | 12% |
+| T3 | 0% | When borrower is jobless, without any source of income or capital gain. | 
+| T4 | 6% | When borrower gain source of income, capital gain, compensation and bonuses, working for a for-profit organization or own business. |
+| T5 | 12% | When borrower met the T4 category and reach certain social status, such as leading an organization. |
+
 
 
 
