@@ -61,10 +61,10 @@ As future of a person can be unpredictable, the SmartLoan attempt to provide sol
 
 Contents will include:  
 How lenders can get huge profit from successful debtors!
-
+I need help from those who are in financial industry!
 
 Still under construction...  
 TBC...  
-Updated on: 17/02/2021  
+Updated on: 20/02/2021  
 
 </p>
