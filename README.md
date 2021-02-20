@@ -67,6 +67,8 @@ Contents will include:
 How lenders can get huge profit from successful debtors!
 I need help from those who are in financial industry!
 
+Idea: securitize the loans (pooling them up)
+
 Still under construction...  
 TBC...  
 Updated on: 20/02/2021  
