@@ -30,7 +30,7 @@ However, if she found a job in UK as an engineering PHD graduate, the average sa
 From the above example, we see that the system is flawed, in a sense that the financial product is not “future proof”. As future is something unpredictable, and it is a form of investment risk to the money lender and a financial risk for the borrower. Although in the United States, PSLF (Public Service Loan Forgiveness) program seeks to help those who work for public services and non-profit organizations. However, such system does not help people who choose to serve independently. For example, a graduated physician who want to open their own family clinic in a rural under-serve area, they may not qualify for PSLF.
 
 ## The Proposed Solution
-SmartLoan is a dApp that helps average person to generate smart student loan contracts. The uniqueness of SmartLoan is that the interest is calculated based on the debtor’s income instead of the fixed percentage of the amount borrowed. With dynamic interest rates, ranging from 18% to -5% based on the career path taken by the borrower.
+SmartLoan is a DeFi (Decentralized Finance) dApp that helps average person to generate smart student loan contracts. The uniqueness of SmartLoan is that the interest is calculated based on the debtor’s income instead of the fixed percentage of the amount borrowed. With dynamic interest rates, ranging from 18% to -5% based on the career path taken by the borrower.  
 
 ![](https://github.com/Asvoria/pineapple_token/blob/master/images/flow1.png)
 
