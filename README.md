@@ -73,4 +73,10 @@ Still under construction...
 TBC...  
 Updated on: 20/02/2021  
 
+Support this project:
+asvoria@live.com
+BTC:
+
+ETH:
+
 </p>
