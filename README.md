@@ -76,9 +76,9 @@ Updated on: 20/02/2021
 Support this project:  
 asvoria@live.com  
 BTC: 1LUibkFb4XrAkEJVX7dmzcm1B5czXFgERX  
-![](https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg =250x)
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg=250x)
 
 ETH: 0xabf3f970cce273397ed71f004bb0c8577ee60c93  
-![](https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg =250x)
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg=250x)
 
 </p>
