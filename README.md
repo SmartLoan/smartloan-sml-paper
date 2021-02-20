@@ -56,6 +56,10 @@ As future of a person can be unpredictable, the SmartLoan attempt to provide sol
 | T4 | 6% | When borrower gain source of income, capital gain, compensation and bonuses, working for a for-profit organization or own business. |
 | T5 | 12% | When borrower met the T4 category and reach certain social status, such as leading an organization. |
 
+## Negative Interest Rates for Certain Circumstances  
+The rationale for negative interest rate for T1 and T2 categories, is that tough times does not last forever, and a person has the freedom to serve either for-profit or non-profit organization though out different stages of life. The weakness of existing PSLF program demands a person to serve a non-profit organization for 10 years. Such requirement limited the freedom of career choice. Negative interest rates encourage borrower to seek a career in non-profit or charitable organization for duration of less than 10 years. During the time when borrower work for these organization, the negative interest rates reduces their total instalment they have to pay monthly. This give earlier reward for the borrower. In year 5 of their service, the borrower decided to change career to serve a for-profit organization for better salary package. Probably they want to get married and have children and need to have more money to support their family. At this point, once the borrower begins the career at for-profit organization, the subsequent interest rate will be charged at T4 (6%). After 2 years (year 7th) the borrower gain major success in their career, and were promoted to be the chief executive officer of the company. At this point, the interest rate shall reach T5 (12%) category.  
+
+## Interest Calculation Based on Total Income
 
 
 
