@@ -73,7 +73,9 @@ As the example above, Asvoria borrowed £80k with the payment period of 10 years
 | £3600 | -£333 | £667  | £334  | Accident with permanent disability, remain receive income of more than x5 principal (IR=-50%) |
 
 From the example above, it is  clear that if Asvoria failed to land a job in UK as a foreign talent, she may still be able to serve her home country without immense burden of the debt. And with the negative interest calculated based on monthly instalment principal, borrower benefited from the providing service for charitable organization.  
+
 While if borrower get into accident, the -100% interest rate is similar to a form of debt forgiveness scheme. However, this could be temporary, when borrower regain money making ability, they shall resume the loan repayment. However, borrower still benefited from the -50% interest rate in this case.   
+
 This system is also profitable for the lenders, when the borrower receive promotion and advancement in career. When life is good and prosperous, the positive interest will increase based on the borrower’s total income.   
 
 
@@ -88,7 +90,7 @@ Idea: securitize the loans (pooling them up)
 
 Still under construction...  
 TBC...  
-Updated on: 20/02/2021  
+Updated on: 21/02/2021  
 
 
 ## References
