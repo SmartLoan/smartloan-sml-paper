@@ -46,20 +46,37 @@ Penalty percentage (P1) and reward percentage (R1, R2) are variables that can be
 ## The Repayment Scheme  
 When the student dropped out or graduated, the next phase would be the repayment of the loan. At this stage, there could be various circumstance. SmartLoan introduce a loan interest calculated based on salary income, capital gain, bonuses and awards which the borrower received throughout the repayment period. The interest rate varied between a set of range pre-programmed in the smart contract. For the above example, the contract is programmed with instalment period of 10 years with 5 variable annual interest rates.
 Five Categories of Consequences  
+
 As future of a person can be unpredictable, the SmartLoan attempt to provide solution that benefits both borrower and lenders through dividing the possible outcome of the borrower’s future prospect. The percentage of each categories can be pre-determined during the design of the contract. Given the above example, 5 annual interest rates were determined: -12%(T1), -6%(T2), 0%(T3), 6%(T4) to 12%(T5):  
 
 | Categories   |  Interest Rate |   Consequences Description      |
 |----------|:-------------:|:-------|
-| T1 | -12% | When borrower works for charitable organization that serves general humanities. |
-| T2 |  -6% | When borrower works for non-profit organization, or facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. |
+| T1 | -100% | Facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. Negative interest rate calculated based on monthly payment principal.  |
+| T2 |  -50% | When borrower works for charitable organization that serves general humanities or facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. But still have total income is more than 5x monthly principal. Negative interest rate calculated based on monthly payment principal.  |
 | T3 | 0% | When borrower is jobless, without any source of income or capital gain. | 
 | T4 | 6% | When borrower gain source of income, capital gain, compensation and bonuses, working for a for-profit organization or own business. |
 | T5 | 12% | When borrower met the T4 category and reach certain social status, such as leading an organization. |
 
 ## Negative Interest Rates for Certain Circumstances  
-The rationale for negative interest rate for T1 and T2 categories, is that tough times does not last forever, and a person has the freedom to serve either for-profit or non-profit organization though out different stages of life. The weakness of existing PSLF program demands a person to serve a non-profit organization for 10 years. Such requirement limited the freedom of career choice. Negative interest rates encourage borrower to seek a career in non-profit or charitable organization for duration of less than 10 years. During the time when borrower work for these organization, the negative interest rates reduces their total instalment they have to pay monthly. This give earlier reward for the borrower. In year 5 of their service, the borrower decided to change career to serve a for-profit organization for better salary package. Probably they want to get married and have children and need to have more money to support their family. At this point, once the borrower begins the career at for-profit organization, the subsequent interest rate will be charged at T4 (6%). After 2 years (year 7th) the borrower gain major success in their career, and were promoted to be the chief executive officer of the company. At this point, the interest rate shall reach T5 (12%) category.  
+The rationale for negative interest rate for T1 and T2 categories, is that tough times does not last forever, and a person has the freedom to serve either for-profit or non-profit organization though out different stages of life. The weakness of existing PSLF program demands a person to serve a non-profit organization for 10 years. Such requirement limited the freedom of career choice. Negative interest rates encourage borrower to seek a career in non-profit or charitable organization for duration of less than 10 years. During the time when borrower work for these organization, the negative interest rates reduces their total instalment they have to pay monthly. This give earlier reward for the borrower. In year 5 of their service, the borrower decided to change career to serve a for-profit organization for better salary package. Probably they want to get married or have children and need to have more money to support their family. At this point, once the borrower begins the career at for-profit organization, the subsequent interest rate will be charged at T4 (6%). After 2 years (year 7th) the borrower gain major success in their career, and were promoted to be the chief executive officer of the company. At this point, the interest rate shall reach T5 (12%) category.  
 
-## Interest Calculation Based on Total Income
+## Interest Calculation Based on Total Income  
+The uniqueness of SmartLoan is that the interest is calculated based on the total income, including capital gain, compensation and awards received, instead of calculate based on the amount of debt. The rational behind this idea was to prevent exploitation by the borrower, and also prevent predatory debts.  
+
+As the example above, Asvoria borrowed £80k with the payment period of 10 years, following table shows the difference between interest schemes:  
+| Income (Monthly)   |  Interest  |  Principal | Payment | Job Description      |
+|----------|:-------------|:-------|:-------------|:-------|
+| £3600 | £216 | £667  | £883  | Working in UK with PHD position (IR=6%) |
+| £1787 | £107 | £667  | £774  | Working in Malaysia with PHD position (IR=6%) |
+| £1787 | -£333 | £667  | £334  | Working for international charitable organization (IR=-50%) |
+| £0 | -£667| £667  | £0 | Accident with permanent disability (IR=-100%) |
+| £3600 | -£333 | £667  | £334  | Accident with permanent disability, remain receive income of more than x5 principal (IR=-50%) |
+
+From the example above, it is  clear that if Asvoria failed to land a job in UK as a foreign talent, she may still be able to serve her home country without immense burden of the debt. And with the negative interest calculated based on monthly instalment principal, borrower benefited from the providing service for charitable organization.  
+While if borrower get into accident, the -100% interest rate is similar to a form of debt forgiveness scheme. However, this could be temporary, when borrower regain money making ability, they shall resume the loan repayment. However, borrower still benefited from the -50% interest rate in this case.   
+This system is also profitable for the lenders, when the borrower receive promotion and advancement in career. When life is good and prosperous, the positive interest will increase based on the borrower’s total income.   
+
+
 
 
 
