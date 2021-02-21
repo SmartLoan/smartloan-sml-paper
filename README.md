@@ -86,7 +86,11 @@ Contents will include:
 How lenders can get huge profit from successful debtors!
 I need help from those who are in financial industry!
 
-Idea: securitize the loans (pooling them up)
+
+Things need to create:  
+1. App where users can modify the variables, will generate a spreadsheet that shows payment plan and total interest paid. This tool will help users to design their own contract suitable to their needs.
+2. securitize the loans (pooling them up)
+3. Flow chart for the repayment scheme
 
 Still under construction...  
 TBC...  
