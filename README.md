@@ -73,14 +73,27 @@ Still under construction...
 TBC...  
 Updated on: 20/02/2021  
 
+
+## References
+
+https://learningenglish.voanews.com/a/growing-global-student-debt-fuels-search-for-solutions/5157022.html  
+https://yaleglobal.yale.edu/content/student-debt-rising-worldwide  
+https://www.makelemonade.co/student-loan-debt-statistics/  
+https://data.oecd.org/eduatt/population-with-tertiary-education.htm  
+https://www.valuecolleges.com/collegecosts/  
+https://www.research-in-germany.org/en/research-funding/funding-organisations.html  
+https://www.brookings.edu/blog/up-front/2019/11/12/five-facts-about-student-loans/  
+https://www.thebalance.com/student-loan-debt-crisis-breakdown-4171739  
+
+
 Support this project:  
 https://gitcoin.co/grants/2020/smartloan  
 asvoria@live.com  
 BTC: 1LUibkFb4XrAkEJVX7dmzcm1B5czXFgERX  
-<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg" alt="drawing" width="180"/>
+<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg" alt="drawing" width="160"/>
 
 ETH: 0xabf3f970cce273397ed71f004bb0c8577ee60c93  
-<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg" alt="drawing" width="180"/>
+<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg" alt="drawing" width="160"/>
 
 
 </p>
