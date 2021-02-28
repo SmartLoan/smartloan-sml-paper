@@ -80,7 +80,8 @@ From the example above, it is  clear that if Asvoria failed to land a job in UK 
 
 While if borrower get into accident, the -100% interest rate is similar to a form of debt forgiveness scheme. However, this could be temporary, when borrower regain money making ability, they shall resume the loan repayment. However, borrower still benefited from the -50% interest rate in this case.   
 
-This system is also profitable for the lenders, when the borrower receive promotion and advancement in career. When life is good and prosperous, the positive interest will increase based on the borrower’s total income.   
+This system is also profitable for the lenders, when the borrower receive promotion and advancement in career. When life is good and prosperous, the positive interest will increase based on the borrower’s total income. As shown on Table 2, when borrower achieved better career path, the amount of interest increased. This will benefit the lenders and it is a form of a good return of investment. 
+
 
 
 
