@@ -84,7 +84,9 @@ This system is also profitable for the lenders, when the borrower receive promot
 
 
 
-
+Issues:
+1. need to take into consideration on when the borrower fail to repay the instalment or cheating... etc. 
+2. circustances when borrower adopt one dollar salary.
 
 
 Contents will include:  
