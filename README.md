@@ -125,11 +125,12 @@ asvoria@live.com
 I wanted to get a PHD, got the offer, but didn't get the funding...  
 That's why I started this!  
 
+On Binance Smart Chain Only...  
 BTC: 1LUibkFb4XrAkEJVX7dmzcm1B5czXFgERX  
-<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg" alt="drawing" width="160"/>
+<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/btc.jpg" alt="drawing" width="120"/>
 
 ETH: 0xabf3f970cce273397ed71f004bb0c8577ee60c93  
-<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg" alt="drawing" width="160"/>
+<img src="https://github.com/Asvoria/pineapple_token/blob/master/images/eth.jpg" alt="drawing" width="120"/>
 
 
 </p>
