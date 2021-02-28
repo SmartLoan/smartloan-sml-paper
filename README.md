@@ -49,6 +49,7 @@ Five Categories of Consequences
 
 As future of a person can be unpredictable, the SmartLoan attempt to provide solution that benefits both borrower and lenders through dividing the possible outcome of the borrower’s future prospect. The percentage of each categories can be pre-determined during the design of the contract. Given the above example, 5 annual interest rates were determined: -12%(T1), -6%(T2), 0%(T3), 6%(T4) to 12%(T5):  
 
+Table 1:  
 | Categories   |  Interest Rate |   Consequences Description      |
 |----------|:-------------:|:-------|
 | T1 | -100% | Facing difficulties living situations such as accidents that lead to permanent disability, critical illness or natural disaster… etc. Negative interest rate calculated based on monthly payment principal.  |
@@ -64,6 +65,8 @@ The rationale for negative interest rate for T1 and T2 categories, is that tough
 The uniqueness of SmartLoan is that the interest is calculated based on the total income, including capital gain, compensation and awards received, instead of calculate based on the amount of debt. The rational behind this idea was to prevent exploitation by the borrower, and also prevent predatory debts.  
 
 As the example above, Asvoria borrowed £80k with the payment period of 10 years, following table shows the difference between interest schemes:  
+
+Table 2:  
 | Income (Monthly)   |  Interest  |  Principal | Payment | Job Description      |
 |----------|:-------------|:-------|:-------------|:-------|
 | £3600 | £216 | £667  | £883  | Working in UK with PHD position (IR=6%) |
