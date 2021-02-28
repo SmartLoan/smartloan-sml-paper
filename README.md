@@ -121,6 +121,7 @@ https://www.thebalance.com/student-loan-debt-crisis-breakdown-4171739
 Support this project:  
 https://gitcoin.co/grants/2020/smartloan  
 asvoria@live.com  
+Looking for team mates who wanted to solve this problem!  
 
 I wanted to get a PHD, got the offer, but didn't get the funding...  
 That's why I started this!  
