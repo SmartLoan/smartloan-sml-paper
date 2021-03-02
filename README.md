@@ -89,6 +89,7 @@ This system is also profitable for the lenders, when the borrower receive promot
 Issues:
 1. need to take into consideration on when the borrower fail to repay the instalment or cheating... etc. 
 2. circustances when borrower adopt one dollar salary.
+3. default consequnces how should it be? how to enforce when a system is decentralised? 
 
 
 Contents will include:  
@@ -105,7 +106,7 @@ Still under construction...
 discussion is on going with people who are more experienced in finance...
 Things will change...
 TBC...  
-Updated on: 28/02/2021  
+Updated on: 02/03/2021  
 
 
 ## References
