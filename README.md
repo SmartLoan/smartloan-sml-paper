@@ -90,6 +90,7 @@ Issues:
 1. need to take into consideration on when the borrower fail to repay the instalment or cheating... etc. 
 2. circustances when borrower adopt one dollar salary.
 3. default consequnces how should it be? how to enforce when a system is decentralised? 
+4. Still need to fix the case when debtor pays partial for over 12 time, should not trigger default.
 
 
 Contents will include:  
