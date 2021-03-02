@@ -82,6 +82,8 @@ While if borrower get into accident, the -100% interest rate is similar to a for
 
 This system is also profitable for the lenders, when the borrower receive promotion and advancement in career. When life is good and prosperous, the positive interest will increase based on the borrower’s total income. As shown on Table 2, when borrower achieved better career path, the amount of interest increased. This will benefit the lenders and it is a form of a good return of investment. 
 
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/payment.png)
+
 
 
 Issues:
