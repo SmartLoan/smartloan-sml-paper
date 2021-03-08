@@ -74,6 +74,7 @@ Table 2:
 | £1787 | -£333 | £667  | £334  | Working for international charitable organization (IR=-50%) |
 | £0 | -£667| £667  | £0 | Accident with permanent disability (IR=-100%) |
 | £3600 | -£333 | £667  | £334  | Accident with permanent disability, remain receive income of more than x5 principal (IR=-50%) |
+| £0 | £0 | £667  | £667  | 0 (IR=-50%) |
 | £10k | £1200 | £667  | £1867  | Become CEO of profitable company  (IR=12%) |
 
 From the example above, it is  clear that if Asvoria failed to land a job in UK as a foreign talent, she may still be able to serve her home country without immense burden of the debt. And with the negative interest calculated based on monthly instalment principal, borrower benefited from the providing service for charitable organization.  
