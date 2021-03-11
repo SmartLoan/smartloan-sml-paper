@@ -1,3 +1,6 @@
+dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
+Contract: https://github.com/Asvoria/celo-hackathon  
+
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
 <p style='text-align: justify;'>
