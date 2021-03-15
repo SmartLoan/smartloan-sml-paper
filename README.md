@@ -1,3 +1,4 @@
+Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
 Contract: https://github.com/Asvoria/celo-hackathon  
 
