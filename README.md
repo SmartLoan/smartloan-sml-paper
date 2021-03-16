@@ -1,8 +1,7 @@
-<p style="font-family: times, serif; font-size:24pt; font-style:italic">
-Updates and related repositories:  
+## Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
 Contract: https://github.com/Asvoria/celo-hackathon  
-</p>
+
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
 <p style='text-align: justify;'>
