@@ -1,6 +1,7 @@
+<font size="6">
 Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
-Contract: https://github.com/Asvoria/celo-hackathon  
+Contract: https://github.com/Asvoria/celo-hackathon  </font>
 
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
