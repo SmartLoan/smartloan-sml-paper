@@ -89,6 +89,14 @@ This system is also profitable for the lenders, when the borrower receive promot
 
 ![](https://github.com/Asvoria/pineapple_token/blob/master/images/paymentx.png)
 
+## Smart Contract Design  
+The SmartLoan ecosystem Take into consideration of mobile dApp users who will simply fill up a form, including their details and the loan parameters that is suitable for their financial requirment. On click of a button, the dApp generates a simple solidity smart contract, based on a designed templete. The small contract size is desirable in this case due to the hadware limitation of mobile devices. Thus, a SmartLoan core library (similar to OpenZeppellin, but will not be inheritable) that carries the basic functions of all the contracts is shared among all users.  
+
+![](https://github.com/Asvoria/pineapple_token/blob/master/images/backend.png)
+
+
+
+
 
 
 Issues:
@@ -112,7 +120,7 @@ Still under construction...
 discussion is on going with people who are more experienced in finance...
 Things will change...
 TBC...  
-Updated on: 11/03/2021  
+ 
 
 
 ## References
