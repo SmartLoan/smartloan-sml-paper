@@ -120,6 +120,16 @@ Things need to create:
 
 
 ## This project is not something can be complete within one month as currently, the dapp is not fully working and it is just for showcasing the idea and concept.
+Demo flow:
+1. User login
+2. key in parameters:  
+** Amount to borrow
+** Duration to repay
+** University offer reference number
+3. Confirmation, and will generate smart contract .sol based on parameter entered.
+4. User compile and deploy the contract through Remix IDE.
+5. Lender buy token, borrower receive celo, then Lender receive PINE token with specific contract address.
+6. End of demo.
 
 Still under construction...  
 discussion is on going with people who are more experienced in finance...
