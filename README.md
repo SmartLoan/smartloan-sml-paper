@@ -114,7 +114,10 @@ I need help from those who are in financial industry!
 Things need to create:  
 1. App where users can modify the variables, will generate a spreadsheet that shows payment plan and total interest paid. This tool will help users to design their own contract suitable to their needs.
 2. securitize the loans (pooling them up)
-3. Flow chart for the repayment scheme
+3. Flow chart for the repayment scheme. 
+4. Implement Hyperledger Indy for credential evaluation of borrowers.  
+5. Integrate with Remix IDE, some tool that enables borrower to retrieve their generated contracts, compile, and deploy. All done with mobile.  
+6. 
 
 Still under construction...  
 discussion is on going with people who are more experienced in finance...
