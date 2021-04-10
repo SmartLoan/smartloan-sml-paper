@@ -117,7 +117,9 @@ Things need to create:
 3. Flow chart for the repayment scheme. 
 4. Implement Hyperledger Indy for credential evaluation of borrowers.  
 5. Integrate with Remix IDE, some tool that enables borrower to retrieve their generated contracts, compile, and deploy. All done with mobile.  
-6. 
+
+
+## This project is not something can be complete within one month as currently, the dapp is not fully working and it is just for showcasing the idea and concept.
 
 Still under construction...  
 discussion is on going with people who are more experienced in finance...
