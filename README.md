@@ -1,6 +1,7 @@
 ## Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
-Contract: https://github.com/Asvoria/celo-hackathon-smartloan
+Contract: https://github.com/Asvoria/celo-hackathon-smartloan  
+ID: https://github.com/Asvoria/indy-sdk (Fresh fork! Still working on it!)
 
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
