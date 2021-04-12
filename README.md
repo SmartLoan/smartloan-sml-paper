@@ -4,6 +4,7 @@ Contract: https://github.com/Asvoria/celo-hackathon-smartloan
 ID: https://github.com/Asvoria/indy-sdk (Fresh fork! Still working on it!)
 
 ![](https://github.com/Asvoria/celo-dappkit-pineapple/blob/master/borrow_demo.gif =250x)
+<img src="https://github.com/Asvoria/celo-dappkit-pineapple/blob/master/borrow_demo.gif" alt="demo" width="200"/>
 
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
