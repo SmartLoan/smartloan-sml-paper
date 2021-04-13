@@ -161,7 +161,7 @@ Looking for team mates who wanted to solve this problem!
 I wanted to get a PHD, got the offer, but didn't get the funding...  
 That's why I started this!  
 
-Contributors' Project Celo Mainnet Account:
-celo & cUSD: 
-*Asvoria Kuan: 0x20309a2e421143a97de577a98e5a83d01b87d9ce
+## Contributors' Project Celo Mainnet Account:  
+celo & cUSD:  
+* Asvoria Kuan: 0x20309a2e421143a97de577a98e5a83d01b87d9ce
 
