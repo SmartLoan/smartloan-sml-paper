@@ -167,5 +167,6 @@ That's why I started this!
 
 ## Contributors' Project Celo Mainnet Account:  
 celo & cUSD:  
-* Asvoria Kuan: 0x20309a2e421143a97de577a98e5a83d01b87d9ce
+* Asvoria Kuan: 0x20309a2e421143a97de577a98e5a83d01b87d9ce  
+* Ian Munge: 0xd269186fc2d9d6f6b7714228d71af4ad1dcfc8bf  
 
