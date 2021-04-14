@@ -1,5 +1,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnIUb5pemOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+https://www.youtube.com/watch?v=qnIUb5pemOw
+
 ## Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
 Contract: https://github.com/Asvoria/celo-hackathon-smartloan  
