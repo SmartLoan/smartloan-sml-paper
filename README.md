@@ -1,6 +1,9 @@
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+<html>
+ <body>
+  <iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+ </body>
+</html>
 
 ## Updates and related repositories:  
 dApp: https://github.com/Asvoria/celo-dappkit-pineapple  
