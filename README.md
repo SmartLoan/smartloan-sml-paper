@@ -1,4 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qnIUb5pemOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=qnIUb5pemOw
 
@@ -7,7 +6,6 @@ dApp: https://github.com/Asvoria/celo-dappkit-pineapple
 Contract: https://github.com/Asvoria/celo-hackathon-smartloan  
 ID: https://github.com/Asvoria/indy-sdk (Fresh fork! Still working on it!)  
 
-<img src="https://github.com/Asvoria/celo-dappkit-pineapple/blob/master/borrow_demo.gif" alt="demo" width="400"/>  
 
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
 ## Keeping Up with Credential Inflation
@@ -165,8 +163,4 @@ Looking for team mates who wanted to solve this problem!
 I wanted to get a PHD, got the offer, but didn't get the funding...  
 That's why I started this!  
 
-## Contributors' Project Celo Mainnet Account:  
-celo & cUSD:  
-* Asvoria Kuan: 0x20309a2e421143a97de577a98e5a83d01b87d9ce  
-* Ian Munge: 0xd269186fc2d9d6f6b7714228d71af4ad1dcfc8bf  
 
