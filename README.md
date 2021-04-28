@@ -8,7 +8,7 @@ ID: https://github.com/SmartLoan/indy-sdk (Fresh fork! Still working on it!)
 
 
 # SmartLoan: A DeFi Solution to Student Debt Crisis!
-SmartLoan is a Proof of Concept DeFi prototype for the future of education loan, attempt to solve the student debt crisis. The design of negative interest rates based calculated based on monthly repayment principal, and positive interest rates based on the debtor's net income. This prototype might only be implemented in a decentrallised ecosystem. SmartLoan attempt to bridge between permissionless and permissioned chains, providing a low risk, secured and collateral-free financial product that is wholesome to both borrowers and lenders. 
+SmartLoan is a Proof of Concept DeFi prototype for the future of education loan, attempt to solve the student debt crisis. The design of negative interest rates based calculated based on monthly repayment principal, and positive interest rates based on the debtor's net income. This prototype might only be implemented in a decentrallised ecosystem. SmartLoan attempt to bridge between permissionless (Celo) and permissioned (Hyperledger) chains, providing a low risk, secured and collateral-free financial product that is wholesome to both borrowers and lenders. 
 
 SmartLoan is currently still in developing process and is a prototype of research on credit creation theory. It will be opperate accordance to Friendly Loan Agreement between leanders and borrowers. 
 
